@@ -2,11 +2,6 @@
 # First example of pinging from Python
 # By Rafaell
 
-#!/usr/bin/env python3
-# First example of pinging from Python
-# By Ed Goad
-# 2/27/2021
-
 # import necessary Python modules
 import platform
 import os

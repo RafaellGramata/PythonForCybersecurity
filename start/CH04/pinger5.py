@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # Fifth example of pinging from Python
 # Reading IPs from a file
-# By Ed Goad
-# 2/27/2021
+# By Rafaell
 
 # import necessary Python modules
 import platform
